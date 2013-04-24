@@ -8,7 +8,7 @@ RHEL -compatible platform (for now)
 
 Attributes
 ----------
-Needs both package name and action.
+Needs both package name and action, eg:
 
 "os-packages": {
   "rhel": {
